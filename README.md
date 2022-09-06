@@ -43,6 +43,6 @@
 #### 글 작성,수정페이지
 ![image](https://user-images.githubusercontent.com/56382506/188686298-2a4f6e69-e5b3-48f5-a77e-a17eb9194b2d.png)
 
-#### 글 회페이지
+#### 글 조회페이지
 ![image](https://user-images.githubusercontent.com/56382506/188686162-cd96181d-fd69-469e-b569-4222f86de080.png)
 
